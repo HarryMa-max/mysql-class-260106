@@ -1,3 +1,3 @@
 # mysql-class-260106
 這是mysql課程第二天
-這是github上傳檔
+這是VsCode編輯
