@@ -1,0 +1,1 @@
+# mysql-class-260106
